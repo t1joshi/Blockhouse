@@ -43,4 +43,4 @@ to compute key order flow imbalance (OFI) features from limit order book (LOB) d
 
 ---
 
-**Author:** [Tanvi Ganesh Joshi]    
+**Author:** Tanvi Ganesh Joshi  
